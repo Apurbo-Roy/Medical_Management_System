@@ -7,8 +7,7 @@ At 1st, The patient will be registered via his email id and password in the Medi
 
 In the Doctor part, The doctor also can edit his profile. He can manage the patient. He will be able to view his patient and view the appointment history.  He will be able to prescribe to the patient and view his medical report. 
 
-The patient can view the medical report on his dashboard.
-
+The patient can view the medical report and prescription on his dashboard.
 
 
 {more part coming soon...}
