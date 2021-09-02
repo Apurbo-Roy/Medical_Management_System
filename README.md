@@ -9,4 +9,4 @@ In the Doctor part, The doctor also can edit his profile. He can manage the pati
 
 The patient can view the medical report and prescription on his dashboard.
 
-{more part coming soon...}
+more part coming soon...
